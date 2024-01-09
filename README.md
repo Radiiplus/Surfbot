@@ -27,7 +27,6 @@ SurfBot is a minimalistic web page visiting tool designed for unlimited page vis
 
 Adjust the behavior of SurfBot using configuration files:
 
-- **urls.txt**: List of URLs to be visited.
 - **user_agents.txt**: Random user agents for each request.
 
 ## Dependencies
